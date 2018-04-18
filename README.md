@@ -8,4 +8,5 @@ Touch as the stimuli for mining calculation, and use difficulties to limit the t
 Flow:
 touch->difficulty changes->hit detection->if hit->coin detection-》coin issued
 
+REF: https://github.com/nebez/floppybird
 #SaveTheBird
